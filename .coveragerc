@@ -1,2 +1,0 @@
-[run]
-omit = *tests*,src/commons/*,src/apps/admin/*
